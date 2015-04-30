@@ -1,0 +1,10 @@
+{
+    "name": "if_FEL_3",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "if_FEL_3.xml",
+    "author": "victoriaandeva",
+    "minimum_firmware_version": 42
+}
